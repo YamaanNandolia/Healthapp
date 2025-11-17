@@ -1,0 +1,17 @@
+# Core Engine
+pathway
+
+# Database / Realtime
+supabase-py>=2.4.0
+psycopg2-binary>=2.9.9
+
+# Environment & utils
+python-dotenv>=1.0.1
+numpy>=1.26.4
+
+# LLM Providers
+openai>=1.14.3
+
+# Optional / Recommended
+requests>=2.31.0
+tqdm>=4.66.2
